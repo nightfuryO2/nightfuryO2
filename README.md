@@ -8,7 +8,7 @@
 Let's connect and create something amazing! 🚀✨
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=F71899&center=true&vCenter=true&random=false&width=450&height=100&lines=Full+Stack+Web+Developer;Graphic+Designer;Video+Editor;UI+%2F+UX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=black&center=true&vCenter=true&random=false&width=450&height=100&lines=Full+Stack+Web+Developer;)](https://git.io/typing-svg)
 
 <a href="https://x.com/kaushikg_O2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/kaushik_O2?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.github.com/nightfuryO2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/nightfuryO2?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>&nbsp;&nbsp;&nbsp;
@@ -28,11 +28,14 @@ Let's connect and create something amazing! 🚀✨
 
 ```Databases```
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,sqlite&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,sqlite,mysql&theme=light)](https://skills.thijs.gg)
 
 ```Tools & Platforms```
 
-[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,vite,git,github,postman&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vite,git,github,postman&theme=light)](https://skills.thijs.gg)
+
+<!--```Libraries```
+[![My Skills](https://skillicons.dev/icons?i=jupyter,numpy,pandas&theme=light)](https://skills.thijs.gg)
 
 <!--
 ---
@@ -80,25 +83,33 @@ Let's connect and create something amazing! 🚀✨
 
 
 ---
--->
 
 ### 📊 GitHub Stats
 
 <p align="left">
    <a href="https://github.com/nightfuryO2">
-        <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nightfuryO2&theme=radical&border_radius=2.5"/>
+        <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nightfuryO2&theme=dark&border_radius=2.5"/>
    </a>
 </p>
 
 <p align="left">
-<a href="https://github.com/nightfuryO2">
-        <img alt="GitHub Stats" src="https://readme-stats.warengonzaga.com/api?username=nightfuryO2&show_icons=true&count_private=true&theme=radical" width="400px"/>
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=nightfuryO2&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=nightfuryO2&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nightfuryO2&show_icons=true" />
+</picture>
 
 <a href="https://github.com/nightfuryO2">
-        <img alt="Top Languages" src="https://readme-stats.warengonzaga.com/api/top-langs?username=nightfuryO2&layout=compact&theme=radical" width="400px"/>
+        <img alt="Top Languages" src="https://readme-stats.warengonzaga.com/api/top-langs?username=nightfuryO2&layout=compact&theme=dark" width="400px"/>
 </a>
 </p>
+
 
 ---
 <!--
