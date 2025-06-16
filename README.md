@@ -1,27 +1,114 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kaushik G
-=================================================================================================================================
+# Hi There! I'm Kaushik G 👋
 
-* 🌍  I'm based in Hyderabad, India.
-* 🖥️  See my [Resume](http://drive.google.com/file/d/1ss-o5fTB8pfAE10vy7ExCiS1Y5_bahwU/view?usp=drive_link)
-* ✉️  You can contact me at [kaushik.gadagoju@gmail.com](mailto:kaushik.gadagoju@gmail.com)
-* 🧠  I'm learning Full Stack(MERN) Web Developnment, Bootcamp in Data Science.
+<!--Hi there! I'm Kaushik .<br><br>-->
 
-### Skills
+**🚀 Skills at a Glance:**<br>
+- Full Stack Development (MERN)
 
+Let's connect and create something amazing! 🚀✨
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=F71899&center=true&vCenter=true&random=false&width=450&height=100&lines=Full+Stack+Web+Developer;Graphic+Designer;Video+Editor;UI+%2F+UX)](https://git.io/typing-svg)
+
+<a href="https://x.com/kaushikg_O2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/kaushik_O2?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.github.com/nightfuryO2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/nightfuryO2?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>&nbsp;&nbsp;&nbsp;
+## ⚙️ Tech Stack
+
+```Programming Languages```
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,cpp&theme=light)](https://skills.thijs.gg)
+
+```Front-End Technologies```
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap&theme=light)](https://skills.thijs.gg)
+
+```Back-End Technologies```
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skills.thijs.gg)
+
+```Databases```
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,sqlite&theme=light)](https://skills.thijs.gg)
+
+```Tools & Platforms```
+
+[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,vite,git,github,postman&theme=light)](https://skills.thijs.gg)
+
+<!--
+---
+
+## 🏢 Work Experiences
+
+- #### Junior Web Developer and UI/UX Designer at [Expelee](https://expelee.com/)
+  ```Mar 2024 - Present```
+
+  Contributed to prominent client projects and played a significant role in building the in-house hackathon platform, Flipr Connect. Gained hands-on experience with React.js, Next.js, and Tailwind CSS.
+
+- #### Graphic Designer, Video Editor, Front-End Developer at [Expelee](https://expelee.com/)
+  ```Aug 2023 - Dec 2023```
+
+  Focused on visual storytelling and front-end design, enhancing the digital experience for Expelee's projects. Developed skills in graphic design, video editing, and web development.
+
+- #### Freelance Web & Video Editor at [Upwork](https://upwork.com/)
+  ```Jun 2022 - Nov 2023```
+
+  Worked on diverse projects for international clients, ranging from social media marketing to web and video editing. Developed advanced skills in Adobe Premiere Pro, After Effects, and responsive web design.
+
+- #### Video Editor & Graphic Designer at [Flameloop](https://flameloop.com/)
+  ```Jun 2023 - Jul 2023```
+
+  Created compelling visual content and enhanced editing techniques for Flameloop's digital initiatives. Focused on storytelling, video editing, and graphic design.
+
+- #### Web Developer and Graphic Designer at [Aesthetic Attire](#)
+  ```Jan 2023 - Jul 2023```
+
+  Led the front-end and design efforts to develop responsive, visually appealing interfaces. Improved graphic illustrations and ensured design consistency across the platform.
+
+- #### Web Developer at [Vedic Radiance](#)
+  ```Jul 2022 - Dec 2022```
+
+  Built responsive web designs for client-facing interfaces. Conducted regular site audits to improve performance and user experience.
+
+---
+
+
+<h4>🌐 Connect with Me:</h4>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kaushikgadagoju/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kaushik_O2)
+<!--[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/__ramfr)-->
+
+
+---
+-->
+
+### 📊 GitHub Stats
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+   <a href="https://github.com/nightfuryO2">
+        <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nightfuryO2&theme=radical&border_radius=2.5"/>
+   </a>
 </p>
 
+<p align="left">
+<a href="https://github.com/nightfuryO2">
+        <img alt="GitHub Stats" src="https://readme-stats.warengonzaga.com/api?username=nightfuryO2&show_icons=true&count_private=true&theme=radical" width="400px"/>
+</a>
 
-### Socials
+<a href="https://github.com/nightfuryO2">
+        <img alt="Top Languages" src="https://readme-stats.warengonzaga.com/api/top-langs?username=nightfuryO2&layout=compact&theme=radical" width="400px"/>
+</a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/nightfuryO2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kaushikgadagoju/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/kaushik_O2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+---
+<!--
+### 🎧 Spotify Playing
 
-### Badges
+[![Old is <3](https://img.shields.io/badge/Old%20is%20<3-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5XbcgpfEethrDshcp9occZ?si=M4cdrd__QheKI5QSgFjaoA) 
+[![Melody Makeout](https://img.shields.io/badge/Melody%20Makeout-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7dOvGkWIQkrOBM8vHLBoHV?si=klRu5EGYQ2up7kRRN1BgPw&pi=a-4rJ17rg-SrGC)
 
-<b>My GitHub Stats</b>
+[![Spotify](https://my-readme-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31mqfob6otggcsnvudnfr6ebmxda)
 
-<a href="http://www.github.com/nightfuryO2"><img src="https://github-readme-stats.vercel.app/api?username=nightfuryO2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nightfuryO2's GitHub stats" /></a>
+---
+-->
 
-<a href="http://www.github.com/nightfuryO2"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nightfuryO2&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="nightfuryO2's GitHub Commits Graph" /></a>
